@@ -1,0 +1,14 @@
+{
+civilIdNumber=205
+, name=omar
+, city=cairo
+, country=egypt
+, dose=[{
+  doseID=1
+, manufacturer=Man1
+, time=12:00
+, place=Cairo 
+, healthProfessional={
+profCivilIdNumber=1
+, name=Ahmed
+, experienceInYears=3}}]}
